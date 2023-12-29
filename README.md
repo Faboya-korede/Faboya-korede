@@ -1,7 +1,7 @@
 # Hello there! 👋🏾
 
 [![DevOps Engineer Badge](https://img.shields.io/badge/DevOps%20Engineer-3333cc?style=for-the-badge&logo=dev.to&logoColor=white)](https://your-devops-profile-link)
-[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YourLinkedInProfile)](YourLinkedInProfile)
+[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YourLinkedInProfile)](https://www.linkedin.com/in/korede-faboya-061469259/)
 [![Twitter Badge](https://img.shields.io/badge/-YourTwitterHandle-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=YourTwitterProfile)](YourTwitterProfile)
 
 I'm a passionate DevOps Engineer, specializing in building and optimizing CI/CD pipelines, automating infrastructure, and ensuring seamless deployment of applications.
@@ -20,7 +20,7 @@ I'm a passionate DevOps Engineer, specializing in building and optimizing CI/CD 
 **A quick overview**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: [Share a fun fact about yourself]
+- 💡 Fun fact: I can recite the entire "DevOps Handbook" while juggling three stress balls! 🤹‍♂️📘 #DevOpsEnthusiast
 - 🌱 Always learning: Currently deepening my expertise in [mention ongoing learning]
 - 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
 - 💼 Job interests: DevOps Engineer, Cloud Engineer (Intern or Junior level).
