@@ -28,6 +28,6 @@ I'm a passionate DevOps Engineer, specializing in building and optimizing CI/CD 
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faboya-korede&show_icons=true&include_all_commits=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&langs_count=8&layout=compact&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faboya-korede&show_icons=true&include_all_commits=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faboya-korede&langs_count=8&layout=compact&hide_border=true) |
 | ------------- | ------------- |
 
