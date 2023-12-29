@@ -1,7 +1,7 @@
 # Hello there! 👋🏾
 
 [![DevOps Engineer Badge](https://img.shields.io/badge/DevOps%20Engineer-3333cc?style=for-the-badge&logo=dev.to&logoColor=white)](https://your-devops-profile-link)
-[![LinkedIn Badge](https://img.shields.io/badge/-Faboya-korede-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YourLinkedInProfile)](https://www.linkedin.com/in/korede-faboya-061469259/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Faboya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YourLinkedInProfile)](https://www.linkedin.com/in/korede-faboya-061469259/)
 [![Twitter Badge](https://img.shields.io/badge/-YourTwitterHandle-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=YourTwitterProfile)](YourTwitterProfile)
 
 I'm a passionate DevOps Engineer, specializing in building and optimizing CI/CD pipelines, automating infrastructure, and ensuring seamless deployment of applications.
