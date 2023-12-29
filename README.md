@@ -24,7 +24,7 @@ I'm a passionate DevOps Engineer, specializing in building and optimizing CI/CD 
 - 🌱 Always learning: Currently deepening my expertise in [mention ongoing learning]
 - 😊 Open to collaboration: Seeking opportunities for open source projects, hackathons, and collaborative ventures.
 - 💼 Job interests: DevOps Engineer, Cloud Engineer (Intern or Junior level).
-- 📫 Feel free to [contact me](mailto:your-email@gmail.com) or check out my [resume](#).
+- 📫 Feel free to [contact me](mailto:faboyakorede@gmail.com) or check out my [resume](#).
 
 ---
 
